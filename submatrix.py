@@ -9,7 +9,6 @@ p=0
 while(f==0):
     l=[]
     r=p
-    print(r,"PP")
     for i in range(0,len(a)):
         t=b[r][s:len(a[0])+s]
         l.append(t)
